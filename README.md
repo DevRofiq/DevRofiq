@@ -1,7 +1,6 @@
 
 <img src="https://i.ibb.co.com/NgxdwS8J/Github.jpg">
 
-
 <h3 align="center">I'm a Full-Stack Web Architect transforming ambitious concepts into high-quality applications. With expert-level skills in Laravel and WordPress, I build the "digital bridge" that aligns your business strategy with creative execution. My clean PHP, JS, HTML/CSS stack ensures your project is functional, efficient, SEO-optimized, and successful.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrofiq&label=Profile%20views&color=0e75b6&style=flat" alt="devrofiq" /> </p>
